@@ -172,10 +172,10 @@ Copy code
 **Guruprasad S Biradar **  
 💼 Data Science Enthusiast  
 <p align="center">
-  <a href="https://github.com/shashankphenomeno111" target="_blank">
+  <a href="https://github.com/Guruprasad-7" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-Shashank%20R-181717?style=for-the-badge&logo=github" />
   </a>
-  <a href="https://www.linkedin.com/in/shashankdatascientist/" target="_blank">
+  <a href="www.linkedin.com/in/guruprasad-biradar" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Shashank%20R-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
