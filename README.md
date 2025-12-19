@@ -167,20 +167,14 @@ Copy code
 
 ---
 
-# 🧑‍💻 Author
+## 👤 Author
 
-**Guruprasad S Biradar **  
-💼 Data Science Enthusiast  
-<p align="center">
-  <a href="https://github.com/Guruprasad-7" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Shashank%20R-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="www.linkedin.com/in/guruprasad-biradar" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Shashank%20R-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
- 
+**Guruprasad S Biradar**  
+A passionate Data Science enthusiast focused on building real-world predictive ML models, 
+Binary classification, and end-to-end product deployments.
 
+📧 Email: guruprasadbiradar777@gmail.com  
+🔗 LinkedIn:(https://www.linkedin.com/in/guruprasad-biradar)
 ---
 
 # ⭐ If you like this project, give it a star! ⭐
