@@ -2,7 +2,8 @@
   📱 Sentiment Analysis Using SVM
 </h1>
 
-<img width="1024" height="1024" alt="image" src="https://chatgpt.com/backend-api/estuary/content?id=file_00000000ee7072099d2616d4d70f6662&ts=490593&p=fs&cid=1&sig=34a646f19bd2649ae149f445ce8ede70fa044987cb4538964a95bacfc668895f&v=0" />
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/a9042580-db81-452e-99d6-60bd6d1175a2">
+
 <!-- BADGES -->
 <p align="center">
   <img src="https://img.shields.io/badge/Machine%20Learning-SVM-purple?style=for-the-badge&logo=python" />
