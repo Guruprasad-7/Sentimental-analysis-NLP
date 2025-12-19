@@ -34,7 +34,7 @@ The final system is deployed as an interactive **Streamlit Web Application**, en
 ## 🚀 Live Demo
 
 🔗 **Try the App Here:**  
-👉(https://nlp-sentimental-analysis-project.streamlit.app/)
+👉(https://sentimentalanalysis777.streamlit.app/)
 
 
 # 🌟 Overview
@@ -169,7 +169,7 @@ Copy code
 
 # 🧑‍💻 Author
 
-**Shashank R**  
+**Guruprasad S Biradar **  
 💼 Data Science Enthusiast  
 <p align="center">
   <a href="https://github.com/shashankphenomeno111" target="_blank">
